@@ -1,4 +1,12 @@
-# InstructLab 🐶 Taxonomy
+# LLM Model Training to for Singapore PSLE Maths 
+
+This is an experimental fork of RedHat's InstructLab Taxonomy to help PSLE students in their exam prep. 
+
+***This is under heavy development.*** 
+
+
+## InstructLab 🐶 Taxonomy
+
 
 ## Contents 📖
 
