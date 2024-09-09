@@ -4,6 +4,9 @@ This is an experimental fork of RedHat's InstructLab Taxonomy to help PSLE stude
 
 ***This is under heavy development.*** 
 
+![Singapore PSLE Maths](docs/assets/Singapore\ P5\ Maths.png)
+
+
 
 ## InstructLab 🐶 Taxonomy
 
