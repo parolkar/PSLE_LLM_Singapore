@@ -2,7 +2,7 @@
 
 This is an experimental fork of RedHat's InstructLab Taxonomy to help PSLE students in their exam prep. 
 
-***This is under heavy development.*** 
+***This is under heavy development. Reach out to @parolkar for questions *** 
 
 ![Singapore PSLE Maths](https://raw.githubusercontent.com/parolkar/PSLE_LLM_Singapore/main/docs/assets/Singapore%20P5%20Maths.png)
 
