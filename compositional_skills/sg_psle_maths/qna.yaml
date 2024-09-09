@@ -1,0 +1,30 @@
+created_by: parolkar
+seed_examples:
+- answer: '
+	### Imagine This:
+
+You have 5 apples, and they cost $10 in total. Now, you want to find out how much 8 apples would cost.
+
+### Step-by-Step:
+
+1. **Find the Cost of One Apple:**
+   - First, we need to know how much just one apple costs.
+   - If 5 apples cost $10, then to find the cost of one apple, we divide $10 by 5.
+   - So, $10 ÷ 5 = $2. This means one apple costs $2.
+
+2. **Find the Cost of 8 Apples:**
+   - Now that we know one apple costs $2, we can find out how much 8 apples cost.
+   - We multiply the cost of one apple by 8.
+   - So, $2 × 8 = $16.
+
+### Conclusion:
+
+If one apple costs $2, then 8 apples will cost $16. 
+
+This is the unitary method: first, find the cost of one item, and then use that to find the cost of more items. It's like solving a puzzle step by step!
+
+    '
+  question: 'Suppose 5 apples cost $10. How much would 8 apples cost? Find solution for P5 student using unitary method.
+
+    '
+task_description: "To teach a language model about Singapore's P5 Maths for PSLE. \n"
